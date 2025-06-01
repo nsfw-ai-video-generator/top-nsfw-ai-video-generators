@@ -7,7 +7,7 @@
 ✅ NSFW AI Image Generation
 ✅ NSFW AI Video Generation
 
-[✨ Try PromptChan Now ✨](https://promptchan.com/m/G1ubXL34SvaTaXMrev0TToWZFsV2?landing=/nsfw-ai)
+[✨ Try PromptChan Now ✨](https://nsfwgen.xyz/promptchan)
 
 ## SpicyGen
 ![image](https://github.com/user-attachments/assets/52703b79-a65b-4341-b01f-6d694d06a953)
@@ -16,7 +16,7 @@
 ✅ NSFW AI Video Generation
 ✅ NSFW Image to Video Generation
 
-[✨ Try SpicyGen Now ✨](https://spicygen.ai/?ref=mme3ytq)
+[✨ Try SpicyGen Now ✨](https://nsfwgen.xyz/spicygen)
 
 ## PornWorks
 ![image](https://github.com/user-attachments/assets/9d438024-27b8-4593-bd1f-f2e17da7eef5)
@@ -26,4 +26,4 @@
 ✅ NSFW AI Video Generation
 ✅ NSFW Image to Video Generation
 
-[✨ Try PornWorks Now ✨](https://pornworks.com/?refid=nsfwgen_xyz)
+[✨ Try PornWorks Now ✨](https://nsfwgen.xyz/pornworks)
